@@ -1,0 +1,14 @@
+# Ignore OS-specific files
+
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore other system files
+*~
+# Ignore large/hidden files
+.git/
+
